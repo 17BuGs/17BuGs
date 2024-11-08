@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @17BuGs.
+- 👋 Hi, I’m @17BuGs(Feng Wu).
 - 👀 I’m interested in animation, music, calligraphy, and coding.
 - 🌱 I’m currently studying for a bachelor's degree at Hainan University, and will join UESTC next year.
 - 📫 Reach me via: 17BuGs.Elaina@gmail.com. Glad to talk!
