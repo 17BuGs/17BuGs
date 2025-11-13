@@ -4,7 +4,15 @@
 - 📫 Reach me via: 17bugs.elaina@gmail.com. Glad to talk!
 - ✨ Visit my personal website [17bugs.github.io](https://17bugs.github.io/) to find what's new.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=17BuGs)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=17BuGs&show_icons=true&theme=onedark" />
+</a>
+
+<!---
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17BuGs&layout=donut&theme=onedark&size_weight=0.8&count_weight=0.8&hide_rank=true&card_width=320" />
+</a>
+--->
 
 <!---
 17BuGs/17BuGs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
