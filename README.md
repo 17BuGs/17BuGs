@@ -4,6 +4,8 @@
 - 📫 Reach me via: 17bugs.elaina@gmail.com. Glad to talk!
 - ✨ Visit my personal website [17bugs.github.io](https://17bugs.github.io/) to find what's new.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=17BuGs)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 17BuGs/17BuGs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
