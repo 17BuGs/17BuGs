@@ -4,7 +4,7 @@
 - 📫 Reach me via: 17bugs.elaina@gmail.com. Glad to talk!
 - ✨ Visit my personal website [17bugs.github.io](https://17bugs.github.io/) to find what's new.
 
-<p align="left"><a href="https://github.com/17BuGs"><img src="https://github-readme-stats.vercel.app/api?username=17BuGs&theme=vue&count_private=true&show_icons=true&hide=issues" alt="github readme stats" height="156"/></a>    <a href="https://github.com/17BuGs"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=17BuGs&theme=vue&layout=compact" alt="top langs" height="156"/></a></p>
+<!-- <p align="left"><a href="https://github.com/17BuGs"><img src="https://github-readme-stats.vercel.app/api?username=17BuGs&theme=vue&count_private=true&show_icons=true&hide=issues" alt="github readme stats" height="156"/></a>    <a href="https://github.com/17BuGs"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=17BuGs&theme=vue&layout=compact" alt="top langs" height="156"/></a></p> -->
 
 <!---
 <a href="https://github.com/17BuGs">
