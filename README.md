@@ -17,31 +17,33 @@
 ```
 --->
 
+<table border="0" frame="void" rules="none" cellpadding="0" cellspacing="0" style="border-style: hidden !important; border-collapse: collapse; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td width="55%" valign="top" style="border: none; background: transparent; padding-right: 20px;">
+
 ### 🧠 Research Interests & Focus
 
-*   **🛞 Autonomous Driving**
-*   **🌌 3D Point Cloud Perception** 
-    *   *3D Object Detection*;
-    *   *Semantic Segmentation*;
-    *   *Frame Interpolation*.
+* **🛞 Autonomous Driving**
+* **🌌 3D Point Cloud Perception**
+    * *3D Object Detection*;
+    * *Semantic Segmentation*;
+    * *Frame Interpolation*.
+
+---
 
 ### 🌐 Connect with Me
 
-*   **📧 Email:** [17bugs.elaina@gmail.com](mailto:17bugs.elaina@gmail.com)
-*   **🏠 Homepage:** Visit my blog at [17bugs.github.io](https://17bugs.github.io/) to see what's new.
+* **📧 Email:** [17bugs.elaina@gmail.com](mailto:17bugs.elaina@gmail.com)
+* **🏠 Homepage:** Visit my blog at [17bugs.github.io](https://17bugs.github.io/) to see what's new.
 
-
-### 📊 GitHub Statistics
-
-<p align="left">
-  <a href="https://github.com/17BuGs">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=17BuGs&theme=vue&count_private=true&show_icons=true&hide=issues" alt="github readme stats" height="156"/>
-  </a>
-  <!-- &nbsp;&nbsp;
-  <a href="https://github.com/17BuGs">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=17BuGs&theme=vue&layout=compact" alt="top langs" height="156"/>
-  </a> -->
-</p>
+    </td>
+    <td width="45%" valign="center" align="right" style="border: none; background: transparent;">
+      <a href="https://github.com/17BuGs">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=17BuGs&theme=vue&count_private=true&show_icons=true&hide=issues" alt="github readme stats" height="156" style="margin-bottom: 12px; display: block; margin-left: auto;" />
+      </a>
+      </td>
+  </tr>
+</table>
 
 <!---
 <a href="https://github.com/17BuGs">
