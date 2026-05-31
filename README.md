@@ -19,7 +19,7 @@
 
 <table border="0" frame="void" rules="none" cellpadding="0" cellspacing="0" style="border-style: hidden !important; border-collapse: collapse; background: transparent;">
   <tr style="border: none; background: transparent;">
-    <td width="55%" valign="top" style="border: none; background: transparent; padding-right: 20px;">
+    <td width="45%" valign="top" style="border: none; background: transparent; padding-right: 20px;">
 
 ### 🧠 Research Interests & Focus
 
@@ -37,7 +37,10 @@
 * **🏠 Homepage:** Visit my blog at [17bugs.github.io](https://17bugs.github.io/) to see what's new.
 
     </td>
-    <td width="45%" valign="center" align="right" style="border: none; background: transparent;">
+    <td width="55%" valign="center" align="center" style="border: none; background: transparent;">
+      <a href="https://github.com/17BuGs">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=17BuGs&theme=vue&hide_border=true" alt="GitHub Streak" height="156" style="display: block; margin-left: auto;" />
+      </a>
       <a href="https://github.com/17BuGs">
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=17BuGs&theme=vue&count_private=true&show_icons=true&hide=issues" alt="github readme stats" height="156" style="margin-bottom: 12px; display: block; margin-left: auto;" />
       </a>
