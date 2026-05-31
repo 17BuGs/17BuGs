@@ -22,7 +22,7 @@
 ### 🧠 Research Interests & Focus
 
 *   **🛞 Autonomous Driving**
-*   **🌌 3D Point Cloud Perception:** 
+*   **🌌 3D Point Cloud Perception** 
     *   *Object Detection*;
     *   *Semantic Segmentation*;
     *   *Frame Interpolation*.
