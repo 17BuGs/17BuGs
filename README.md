@@ -4,8 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=41B883&center=true&vCenter=true&width=500&lines=Master+Student+%40+UESTC;3D+Computer+Vision;Point+Cloud+Perception" alt="Typing SVG" />
 </p>
 
----
-
+<!---
 ### 🔍 Overview
 
 ```json
@@ -16,25 +15,21 @@
   "hobbies": ["Fixing 17 BuGs 🐛"]
 }
 ```
-
----
+--->
 
 ### 🧠 Research Interests & Focus
 
 *   **🛞 Autonomous Driving**
 *   **🌌 3D Point Cloud Perception** 
-    *   *Object Detection*;
+    *   *3D Object Detection*;
     *   *Semantic Segmentation*;
     *   *Frame Interpolation*.
-
----
 
 ### 🌐 Connect with Me
 
 *   **📧 Email:** [17bugs.elaina@gmail.com](mailto:17bugs.elaina@gmail.com)
 *   **🏠 Homepage:** Visit my blog at [17bugs.github.io](https://17bugs.github.io/) to see what's new.
 
----
 
 ### 📊 GitHub Statistics
 
