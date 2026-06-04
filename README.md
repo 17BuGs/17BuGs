@@ -35,7 +35,7 @@
 
 * **📧 Email:** [17bugs.elaina@gmail.com](mailto:17bugs.elaina@gmail.com)
 * **🎓 [Google Scholar](https://scholar.google.com/citations?user=iU13ZmwAAAAJ)**
-* **🏠 Homepage:** Visit my blog [here](https://17bugs.github.io/) to see what's new.
+* **🏠 Homepage:** Personal blog [here](https://17bugs.github.io/) to see what's new.
 
     </td>
     <td width="55%" valign="center" align="center" style="border: none; background: transparent;">
