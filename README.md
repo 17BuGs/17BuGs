@@ -22,7 +22,7 @@
     <td width="45%" valign="top" style="border: none; background: transparent; padding-right: 20px;">
 
 ### 🧠 Research Interests & Focus
-
+* **👀 Computer Vision**
 * **🛞 Autonomous Driving**
 * **🌌 3D Point Cloud Perception**
     * *3D Object Detection*;
